@@ -6,8 +6,6 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishubhaskar00-afk&label=Profile%20views&color=0e75b6&style=flat" alt="jishubhaskar00-afk" /> </p>
-
 - 🌱 I’m currently learning *python*
 
 <h2 align="left">🔸 About Me</h2>
