@@ -40,7 +40,8 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=Animeshsaha409&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Animeshsaha409&theme=dark&hide_border=false)<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshsaha409&" alt="animeshsaha409" /></p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Animeshsaha409&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <img align="center" alt="runner" width="100%" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
 
 
